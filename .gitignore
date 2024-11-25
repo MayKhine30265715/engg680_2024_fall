@@ -1,1 +1,7 @@
-.DS_Store
+
+    # Ignore configuration files (local changes for lab assignment 4)
+    .config/
+
+    # Ignore sample data files (remote changes)
+    sample_data/
+    
