@@ -5,3 +5,14 @@
     # Ignore sample data files (remote changes)
     sample_data/
     
+# Ignore embedded Git repositories
+Archive _ENGG680_fall2024_02/
+Archive _engg680_2024_fall_04/
+Archive-engg680_2024_fall_01/
+Archive_ENGG680_fall2024_Lab03/
+Archive_engg680_2024_fall_05/
+
+# Ignore unsupported file types
+*.gsheet
+
+# Add more patterns as needed
